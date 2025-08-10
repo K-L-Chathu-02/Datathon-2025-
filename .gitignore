@@ -3,3 +3,5 @@ DATATHON 2025/Graffitti
 DATATHON 2025/IllegalParking
 DATATHON 2025/Potholes
 DATATHON 2025/Trash
+pycache
+/main_category_classifier_final.h5
